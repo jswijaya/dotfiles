@@ -1,5 +1,4 @@
 # Dotfiles
 
-This repository contains my dotfiles or my personal configuration files.
-At this moment i only use ubuntu system as my development environment. 
+This repository contains my personal dotfiles, which I use to configure and customize my development environment. At present, my setup is tailored for Ubuntu.
 
